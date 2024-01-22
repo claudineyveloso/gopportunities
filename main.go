@@ -1,7 +1,7 @@
 package main
 
-import "fmt"
+import "github.com/claudineyveloso/gopportunities.git/router"
 
 func main() {
-	fmt.Println("Hello!`")
+	router.Initialize()
 }
